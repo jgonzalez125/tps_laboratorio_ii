@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Entidades
 {
-    public class Calculadora
+    public sealed class Calculadora
     {
 
         /// <summary>

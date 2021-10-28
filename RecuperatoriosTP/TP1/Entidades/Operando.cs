@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Entidades
 {
-    public class Operando
+    public class Operando 
     {
         private double numero;
 
@@ -17,7 +17,7 @@ namespace Entidades
         /// </summary>
         public Operando() : this(0)
         {
-
+            new Calculadora();
         }
 
         /// <summary>
