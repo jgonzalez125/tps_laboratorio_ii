@@ -117,6 +117,7 @@ namespace MiCalculadora
             }
         }
 
+
         /// <summary>
         /// Maneja el evento que convierte el resultado de la operacion a binario, validando que haya previamente
         /// una operacion realizada.
@@ -187,8 +188,20 @@ namespace MiCalculadora
             DialogResult resultado = MessageBox.Show($"Seguro de querer salir?", "Error", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
             if (DialogResult.Yes == resultado)
             {
+                this.FormClosing -= FormCalculadora_FormClosing;
                 this.Close();
             }
+        }
+
+        /// <summary>
+        /// Metodo que llama a <see cref="btnCerrar_Click(object, EventArgs)"/> cuando 
+        /// el usuario clickea la X del form
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
+        private void FormCalculadora_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            this.btnCerrar_Click(sender, e);
         }
 
 
@@ -213,10 +226,10 @@ namespace MiCalculadora
         /// <summary>
         /// Construye y devuelve dinamicamente el string que va a mostrarse en <seealso cref="lstOperaciones"/>
         /// </summary>
-        /// <returns></returns>
+        /// <returns>el string que va a mostrarse en <seealso cref="lstOperaciones"/></returns>
         private string GetTextoOperacion()
         {
-            return txtNumero1.Text + " " + cmbOperador.Text + " " + txtNumero2.Text + " = " + lblResultado.Text;
+            return $"{txtNumero1.Text} {cmbOperador.Text} {txtNumero2.Text} = {lblResultado.Text}";
         }
 
         /// <summary>
