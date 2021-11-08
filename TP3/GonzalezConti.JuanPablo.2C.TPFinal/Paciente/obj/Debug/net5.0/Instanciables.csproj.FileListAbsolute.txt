@@ -1,0 +1,17 @@
+C:\Proyectos\tps_laboratorio_ii\TP3\GonzalezConti.JuanPablo.2C.TPFinal\Paciente\bin\Debug\net5.0\Instanciables.deps.json
+C:\Proyectos\tps_laboratorio_ii\TP3\GonzalezConti.JuanPablo.2C.TPFinal\Paciente\bin\Debug\net5.0\Instanciables.dll
+C:\Proyectos\tps_laboratorio_ii\TP3\GonzalezConti.JuanPablo.2C.TPFinal\Paciente\bin\Debug\net5.0\ref\Instanciables.dll
+C:\Proyectos\tps_laboratorio_ii\TP3\GonzalezConti.JuanPablo.2C.TPFinal\Paciente\bin\Debug\net5.0\Instanciables.pdb
+C:\Proyectos\tps_laboratorio_ii\TP3\GonzalezConti.JuanPablo.2C.TPFinal\Paciente\bin\Debug\net5.0\Abstractas.dll
+C:\Proyectos\tps_laboratorio_ii\TP3\GonzalezConti.JuanPablo.2C.TPFinal\Paciente\bin\Debug\net5.0\Excepciones.dll
+C:\Proyectos\tps_laboratorio_ii\TP3\GonzalezConti.JuanPablo.2C.TPFinal\Paciente\bin\Debug\net5.0\Abstractas.pdb
+C:\Proyectos\tps_laboratorio_ii\TP3\GonzalezConti.JuanPablo.2C.TPFinal\Paciente\bin\Debug\net5.0\Excepciones.pdb
+C:\Proyectos\tps_laboratorio_ii\TP3\GonzalezConti.JuanPablo.2C.TPFinal\Paciente\obj\Debug\net5.0\Instanciables.csproj.AssemblyReference.cache
+C:\Proyectos\tps_laboratorio_ii\TP3\GonzalezConti.JuanPablo.2C.TPFinal\Paciente\obj\Debug\net5.0\Instanciables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\tps_laboratorio_ii\TP3\GonzalezConti.JuanPablo.2C.TPFinal\Paciente\obj\Debug\net5.0\Instanciables.AssemblyInfoInputs.cache
+C:\Proyectos\tps_laboratorio_ii\TP3\GonzalezConti.JuanPablo.2C.TPFinal\Paciente\obj\Debug\net5.0\Instanciables.AssemblyInfo.cs
+C:\Proyectos\tps_laboratorio_ii\TP3\GonzalezConti.JuanPablo.2C.TPFinal\Paciente\obj\Debug\net5.0\Instanciables.csproj.CoreCompileInputs.cache
+C:\Proyectos\tps_laboratorio_ii\TP3\GonzalezConti.JuanPablo.2C.TPFinal\Paciente\obj\Debug\net5.0\Instanciables.csproj.CopyComplete
+C:\Proyectos\tps_laboratorio_ii\TP3\GonzalezConti.JuanPablo.2C.TPFinal\Paciente\obj\Debug\net5.0\Instanciables.dll
+C:\Proyectos\tps_laboratorio_ii\TP3\GonzalezConti.JuanPablo.2C.TPFinal\Paciente\obj\Debug\net5.0\ref\Instanciables.dll
+C:\Proyectos\tps_laboratorio_ii\TP3\GonzalezConti.JuanPablo.2C.TPFinal\Paciente\obj\Debug\net5.0\Instanciables.pdb

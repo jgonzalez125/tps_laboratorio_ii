@@ -1,0 +1,8 @@
+Turno:
+11/8/2021 2:56:27 AM
+Paciente:
+Nombre Completo: asdasd asdasd
+
+DNI: 12345678
+Cobertura: Particular
+

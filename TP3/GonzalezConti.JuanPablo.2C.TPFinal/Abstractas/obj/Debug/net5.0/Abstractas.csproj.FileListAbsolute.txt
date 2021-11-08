@@ -1,0 +1,15 @@
+C:\Proyectos\tps_laboratorio_ii\TP3\GonzalezConti.JuanPablo.2C.TPFinal\Abstractas\bin\Debug\net5.0\Abstractas.deps.json
+C:\Proyectos\tps_laboratorio_ii\TP3\GonzalezConti.JuanPablo.2C.TPFinal\Abstractas\bin\Debug\net5.0\Abstractas.dll
+C:\Proyectos\tps_laboratorio_ii\TP3\GonzalezConti.JuanPablo.2C.TPFinal\Abstractas\bin\Debug\net5.0\ref\Abstractas.dll
+C:\Proyectos\tps_laboratorio_ii\TP3\GonzalezConti.JuanPablo.2C.TPFinal\Abstractas\bin\Debug\net5.0\Abstractas.pdb
+C:\Proyectos\tps_laboratorio_ii\TP3\GonzalezConti.JuanPablo.2C.TPFinal\Abstractas\obj\Debug\net5.0\Abstractas.csproj.AssemblyReference.cache
+C:\Proyectos\tps_laboratorio_ii\TP3\GonzalezConti.JuanPablo.2C.TPFinal\Abstractas\obj\Debug\net5.0\Abstractas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\tps_laboratorio_ii\TP3\GonzalezConti.JuanPablo.2C.TPFinal\Abstractas\obj\Debug\net5.0\Abstractas.AssemblyInfoInputs.cache
+C:\Proyectos\tps_laboratorio_ii\TP3\GonzalezConti.JuanPablo.2C.TPFinal\Abstractas\obj\Debug\net5.0\Abstractas.AssemblyInfo.cs
+C:\Proyectos\tps_laboratorio_ii\TP3\GonzalezConti.JuanPablo.2C.TPFinal\Abstractas\obj\Debug\net5.0\Abstractas.csproj.CoreCompileInputs.cache
+C:\Proyectos\tps_laboratorio_ii\TP3\GonzalezConti.JuanPablo.2C.TPFinal\Abstractas\obj\Debug\net5.0\Abstractas.dll
+C:\Proyectos\tps_laboratorio_ii\TP3\GonzalezConti.JuanPablo.2C.TPFinal\Abstractas\obj\Debug\net5.0\ref\Abstractas.dll
+C:\Proyectos\tps_laboratorio_ii\TP3\GonzalezConti.JuanPablo.2C.TPFinal\Abstractas\obj\Debug\net5.0\Abstractas.pdb
+C:\Proyectos\tps_laboratorio_ii\TP3\GonzalezConti.JuanPablo.2C.TPFinal\Abstractas\bin\Debug\net5.0\Excepciones.dll
+C:\Proyectos\tps_laboratorio_ii\TP3\GonzalezConti.JuanPablo.2C.TPFinal\Abstractas\bin\Debug\net5.0\Excepciones.pdb
+C:\Proyectos\tps_laboratorio_ii\TP3\GonzalezConti.JuanPablo.2C.TPFinal\Abstractas\obj\Debug\net5.0\Abstractas.csproj.CopyComplete

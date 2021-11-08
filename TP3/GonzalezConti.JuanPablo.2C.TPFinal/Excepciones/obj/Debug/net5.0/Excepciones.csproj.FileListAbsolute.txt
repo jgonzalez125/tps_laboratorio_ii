@@ -1,0 +1,12 @@
+C:\Proyectos\tps_laboratorio_ii\TP3\GonzalezConti.JuanPablo.2C.TPFinal\Excepciones\bin\Debug\net5.0\Excepciones.deps.json
+C:\Proyectos\tps_laboratorio_ii\TP3\GonzalezConti.JuanPablo.2C.TPFinal\Excepciones\bin\Debug\net5.0\Excepciones.dll
+C:\Proyectos\tps_laboratorio_ii\TP3\GonzalezConti.JuanPablo.2C.TPFinal\Excepciones\bin\Debug\net5.0\ref\Excepciones.dll
+C:\Proyectos\tps_laboratorio_ii\TP3\GonzalezConti.JuanPablo.2C.TPFinal\Excepciones\bin\Debug\net5.0\Excepciones.pdb
+C:\Proyectos\tps_laboratorio_ii\TP3\GonzalezConti.JuanPablo.2C.TPFinal\Excepciones\obj\Debug\net5.0\Excepciones.csproj.AssemblyReference.cache
+C:\Proyectos\tps_laboratorio_ii\TP3\GonzalezConti.JuanPablo.2C.TPFinal\Excepciones\obj\Debug\net5.0\Excepciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\tps_laboratorio_ii\TP3\GonzalezConti.JuanPablo.2C.TPFinal\Excepciones\obj\Debug\net5.0\Excepciones.AssemblyInfoInputs.cache
+C:\Proyectos\tps_laboratorio_ii\TP3\GonzalezConti.JuanPablo.2C.TPFinal\Excepciones\obj\Debug\net5.0\Excepciones.AssemblyInfo.cs
+C:\Proyectos\tps_laboratorio_ii\TP3\GonzalezConti.JuanPablo.2C.TPFinal\Excepciones\obj\Debug\net5.0\Excepciones.csproj.CoreCompileInputs.cache
+C:\Proyectos\tps_laboratorio_ii\TP3\GonzalezConti.JuanPablo.2C.TPFinal\Excepciones\obj\Debug\net5.0\Excepciones.dll
+C:\Proyectos\tps_laboratorio_ii\TP3\GonzalezConti.JuanPablo.2C.TPFinal\Excepciones\obj\Debug\net5.0\ref\Excepciones.dll
+C:\Proyectos\tps_laboratorio_ii\TP3\GonzalezConti.JuanPablo.2C.TPFinal\Excepciones\obj\Debug\net5.0\Excepciones.pdb

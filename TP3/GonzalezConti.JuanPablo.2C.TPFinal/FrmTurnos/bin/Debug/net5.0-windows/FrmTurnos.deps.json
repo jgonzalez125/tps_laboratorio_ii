@@ -1,0 +1,77 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "FrmTurnos/1.0.0": {
+        "dependencies": {
+          "Archivos": "1.0.0",
+          "Instanciables": "1.0.0"
+        },
+        "runtime": {
+          "FrmTurnos.dll": {}
+        }
+      },
+      "Abstractas/1.0.0": {
+        "dependencies": {
+          "Excepciones": "1.0.0"
+        },
+        "runtime": {
+          "Abstractas.dll": {}
+        }
+      },
+      "Archivos/1.0.0": {
+        "dependencies": {
+          "Excepciones": "1.0.0"
+        },
+        "runtime": {
+          "Archivos.dll": {}
+        }
+      },
+      "Excepciones/1.0.0": {
+        "runtime": {
+          "Excepciones.dll": {}
+        }
+      },
+      "Instanciables/1.0.0": {
+        "dependencies": {
+          "Abstractas": "1.0.0",
+          "Excepciones": "1.0.0"
+        },
+        "runtime": {
+          "Instanciables.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FrmTurnos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Abstractas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Archivos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Excepciones/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Instanciables/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
