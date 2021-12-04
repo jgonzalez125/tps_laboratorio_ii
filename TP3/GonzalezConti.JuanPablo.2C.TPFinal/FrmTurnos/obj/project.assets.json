@@ -88,9 +88,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Proyectos\\tps_laboratorio_ii\\TP3\\GonzalezConti.JuanPablo.2C.TPFinal\\FrmTurnos\\FrmTurnos.csproj",
-      "projectName": "FrmTurnos",
-      "projectPath": "C:\\Proyectos\\tps_laboratorio_ii\\TP3\\GonzalezConti.JuanPablo.2C.TPFinal\\FrmTurnos\\FrmTurnos.csproj",
+      "projectUniqueName": "C:\\Proyectos\\tps_laboratorio_ii\\TP3\\GonzalezConti.JuanPablo.2C.TPFinal\\FrmTurnos\\FrmHospital.csproj",
+      "projectName": "FrmHospital",
+      "projectPath": "C:\\Proyectos\\tps_laboratorio_ii\\TP3\\GonzalezConti.JuanPablo.2C.TPFinal\\FrmTurnos\\FrmHospital.csproj",
       "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
       "outputPath": "C:\\Proyectos\\tps_laboratorio_ii\\TP3\\GonzalezConti.JuanPablo.2C.TPFinal\\FrmTurnos\\obj\\",
       "projectStyle": "PackageReference",

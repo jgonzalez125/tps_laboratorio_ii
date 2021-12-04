@@ -1,0 +1,156 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0-windows7.0": {
+      "Abstractas/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "Excepciones": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Abstractas.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Abstractas.dll": {}
+        }
+      },
+      "Archivos/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "Excepciones": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Archivos.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Archivos.dll": {}
+        }
+      },
+      "Excepciones/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Excepciones.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Excepciones.dll": {}
+        }
+      },
+      "Instanciables/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "Abstractas": "1.0.0",
+          "Excepciones": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Instanciables.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Instanciables.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Abstractas/1.0.0": {
+      "type": "project",
+      "path": "../Abstractas/Abstractas.csproj",
+      "msbuildProject": "../Abstractas/Abstractas.csproj"
+    },
+    "Archivos/1.0.0": {
+      "type": "project",
+      "path": "../Archivos/Archivos.csproj",
+      "msbuildProject": "../Archivos/Archivos.csproj"
+    },
+    "Excepciones/1.0.0": {
+      "type": "project",
+      "path": "../Excepciones/Excepciones.csproj",
+      "msbuildProject": "../Excepciones/Excepciones.csproj"
+    },
+    "Instanciables/1.0.0": {
+      "type": "project",
+      "path": "../Paciente/Instanciables.csproj",
+      "msbuildProject": "../Paciente/Instanciables.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0-windows7.0": [
+      "Archivos >= 1.0.0",
+      "Excepciones >= 1.0.0",
+      "Instanciables >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Usuario\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Proyectos\\tps_laboratorio_ii\\TP3\\GonzalezConti.JuanPablo.2C.TPFinal\\WinFormsApp1\\FrmHospital.csproj",
+      "projectName": "FrmHospital",
+      "projectPath": "C:\\Proyectos\\tps_laboratorio_ii\\TP3\\GonzalezConti.JuanPablo.2C.TPFinal\\WinFormsApp1\\FrmHospital.csproj",
+      "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+      "outputPath": "C:\\Proyectos\\tps_laboratorio_ii\\TP3\\GonzalezConti.JuanPablo.2C.TPFinal\\WinFormsApp1\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0-windows7.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
+          "projectReferences": {
+            "C:\\Proyectos\\tps_laboratorio_ii\\TP3\\GonzalezConti.JuanPablo.2C.TPFinal\\Archivos\\Archivos.csproj": {
+              "projectPath": "C:\\Proyectos\\tps_laboratorio_ii\\TP3\\GonzalezConti.JuanPablo.2C.TPFinal\\Archivos\\Archivos.csproj"
+            },
+            "C:\\Proyectos\\tps_laboratorio_ii\\TP3\\GonzalezConti.JuanPablo.2C.TPFinal\\Excepciones\\Excepciones.csproj": {
+              "projectPath": "C:\\Proyectos\\tps_laboratorio_ii\\TP3\\GonzalezConti.JuanPablo.2C.TPFinal\\Excepciones\\Excepciones.csproj"
+            },
+            "C:\\Proyectos\\tps_laboratorio_ii\\TP3\\GonzalezConti.JuanPablo.2C.TPFinal\\Paciente\\Instanciables.csproj": {
+              "projectPath": "C:\\Proyectos\\tps_laboratorio_ii\\TP3\\GonzalezConti.JuanPablo.2C.TPFinal\\Paciente\\Instanciables.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0-windows7.0": {
+        "targetAlias": "net5.0-windows",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

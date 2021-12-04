@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Medico xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Nombre>Juan</Nombre>
+  <Apellido>Perez</Apellido>
+  <Matricula>MN2345</Matricula>
+  <Especializacion>Cardiologia</Especializacion>
+</Medico>

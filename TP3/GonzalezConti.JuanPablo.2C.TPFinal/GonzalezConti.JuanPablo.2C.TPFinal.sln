@@ -3,15 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31702.278
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abstractas", "Abstractas\Abstractas.csproj", "{B79AEFE9-B8BC-4851-8151-742592CCAF92}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Abstractas", "Abstractas\Abstractas.csproj", "{B79AEFE9-B8BC-4851-8151-742592CCAF92}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Instanciables", "Paciente\Instanciables.csproj", "{DA22D237-2A88-4964-9B3D-E8C3A552D5C4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Instanciables", "Paciente\Instanciables.csproj", "{DA22D237-2A88-4964-9B3D-E8C3A552D5C4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Archivos", "Archivos\Archivos.csproj", "{A8F04F21-8A07-4F96-951E-A80CE42B6170}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Archivos", "Archivos\Archivos.csproj", "{A8F04F21-8A07-4F96-951E-A80CE42B6170}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Excepciones", "Excepciones\Excepciones.csproj", "{E0CC509C-1519-4EE1-A153-33973649C956}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Excepciones", "Excepciones\Excepciones.csproj", "{E0CC509C-1519-4EE1-A153-33973649C956}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrmTurnos", "FrmTurnos\FrmTurnos.csproj", "{8F6FEDC1-B34E-4592-BBBE-1906EB5015C5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrmHospital", "WinFormsApp1\FrmHospital.csproj", "{07CE4645-BE13-4B16-A0A1-18290EC74438}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -35,10 +35,10 @@ Global
 		{E0CC509C-1519-4EE1-A153-33973649C956}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E0CC509C-1519-4EE1-A153-33973649C956}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E0CC509C-1519-4EE1-A153-33973649C956}.Release|Any CPU.Build.0 = Release|Any CPU
-		{8F6FEDC1-B34E-4592-BBBE-1906EB5015C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{8F6FEDC1-B34E-4592-BBBE-1906EB5015C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{8F6FEDC1-B34E-4592-BBBE-1906EB5015C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{8F6FEDC1-B34E-4592-BBBE-1906EB5015C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07CE4645-BE13-4B16-A0A1-18290EC74438}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07CE4645-BE13-4B16-A0A1-18290EC74438}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07CE4645-BE13-4B16-A0A1-18290EC74438}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07CE4645-BE13-4B16-A0A1-18290EC74438}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

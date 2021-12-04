@@ -1,10 +1,11 @@
 ﻿using System;
 using System.Text;
 using Excepciones;
+using Abstractas.Interfaces;
 
 namespace Abstractas
 {
-    public abstract class Persona
+    public abstract class Persona : IGuardar<Persona>
     {
         string nombre;
         string apellido;
@@ -38,6 +39,9 @@ namespace Abstractas
                 this.apellido = ValidarNombreApellido(value);
             }
         }
+
+        abstract public bool Guardar();
+        abstract public Persona Leer();
 
 
         private static string ValidarNombreApellido(string a)
