@@ -1,0 +1,15 @@
+C:\Proyectos\tps_laboratorio_ii\RecuperatoriosTP\TP4\EntidadesDAO\obj\Debug\net5.0\EntidadesDAO.csproj.AssemblyReference.cache
+C:\Proyectos\tps_laboratorio_ii\RecuperatoriosTP\TP4\EntidadesDAO\obj\Debug\net5.0\EntidadesDAO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\tps_laboratorio_ii\RecuperatoriosTP\TP4\EntidadesDAO\obj\Debug\net5.0\EntidadesDAO.AssemblyInfoInputs.cache
+C:\Proyectos\tps_laboratorio_ii\RecuperatoriosTP\TP4\EntidadesDAO\obj\Debug\net5.0\EntidadesDAO.AssemblyInfo.cs
+C:\Proyectos\tps_laboratorio_ii\RecuperatoriosTP\TP4\EntidadesDAO\obj\Debug\net5.0\EntidadesDAO.csproj.CoreCompileInputs.cache
+C:\Proyectos\tps_laboratorio_ii\RecuperatoriosTP\TP4\EntidadesDAO\bin\Debug\net5.0\EntidadesDAO.deps.json
+C:\Proyectos\tps_laboratorio_ii\RecuperatoriosTP\TP4\EntidadesDAO\bin\Debug\net5.0\EntidadesDAO.dll
+C:\Proyectos\tps_laboratorio_ii\RecuperatoriosTP\TP4\EntidadesDAO\bin\Debug\net5.0\ref\EntidadesDAO.dll
+C:\Proyectos\tps_laboratorio_ii\RecuperatoriosTP\TP4\EntidadesDAO\bin\Debug\net5.0\EntidadesDAO.pdb
+C:\Proyectos\tps_laboratorio_ii\RecuperatoriosTP\TP4\EntidadesDAO\bin\Debug\net5.0\Entidades.dll
+C:\Proyectos\tps_laboratorio_ii\RecuperatoriosTP\TP4\EntidadesDAO\bin\Debug\net5.0\Entidades.pdb
+C:\Proyectos\tps_laboratorio_ii\RecuperatoriosTP\TP4\EntidadesDAO\obj\Debug\net5.0\EntidadesDAO.csproj.CopyComplete
+C:\Proyectos\tps_laboratorio_ii\RecuperatoriosTP\TP4\EntidadesDAO\obj\Debug\net5.0\EntidadesDAO.dll
+C:\Proyectos\tps_laboratorio_ii\RecuperatoriosTP\TP4\EntidadesDAO\obj\Debug\net5.0\ref\EntidadesDAO.dll
+C:\Proyectos\tps_laboratorio_ii\RecuperatoriosTP\TP4\EntidadesDAO\obj\Debug\net5.0\EntidadesDAO.pdb

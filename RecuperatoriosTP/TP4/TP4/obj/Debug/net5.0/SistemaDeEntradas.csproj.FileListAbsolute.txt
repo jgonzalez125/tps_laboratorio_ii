@@ -1,0 +1,11 @@
+C:\Proyectos\tps_laboratorio_ii\RecuperatoriosTP\TP4\TP4\bin\Debug\net5.0\SistemaDeEntradas.deps.json
+C:\Proyectos\tps_laboratorio_ii\RecuperatoriosTP\TP4\TP4\bin\Debug\net5.0\SistemaDeEntradas.dll
+C:\Proyectos\tps_laboratorio_ii\RecuperatoriosTP\TP4\TP4\bin\Debug\net5.0\ref\SistemaDeEntradas.dll
+C:\Proyectos\tps_laboratorio_ii\RecuperatoriosTP\TP4\TP4\bin\Debug\net5.0\SistemaDeEntradas.pdb
+C:\Proyectos\tps_laboratorio_ii\RecuperatoriosTP\TP4\TP4\obj\Debug\net5.0\SistemaDeEntradas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\tps_laboratorio_ii\RecuperatoriosTP\TP4\TP4\obj\Debug\net5.0\SistemaDeEntradas.AssemblyInfoInputs.cache
+C:\Proyectos\tps_laboratorio_ii\RecuperatoriosTP\TP4\TP4\obj\Debug\net5.0\SistemaDeEntradas.AssemblyInfo.cs
+C:\Proyectos\tps_laboratorio_ii\RecuperatoriosTP\TP4\TP4\obj\Debug\net5.0\SistemaDeEntradas.csproj.CoreCompileInputs.cache
+C:\Proyectos\tps_laboratorio_ii\RecuperatoriosTP\TP4\TP4\obj\Debug\net5.0\SistemaDeEntradas.dll
+C:\Proyectos\tps_laboratorio_ii\RecuperatoriosTP\TP4\TP4\obj\Debug\net5.0\ref\SistemaDeEntradas.dll
+C:\Proyectos\tps_laboratorio_ii\RecuperatoriosTP\TP4\TP4\obj\Debug\net5.0\SistemaDeEntradas.pdb
