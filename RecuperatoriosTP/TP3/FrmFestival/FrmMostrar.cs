@@ -11,7 +11,7 @@ using Entidades;
 using Entidades.Excepciones;
 using Entidades.Archivos;
 
-namespace FrmCentralita
+namespace FrmFestival
 {
     public partial class FrmMostrar : Form
     {

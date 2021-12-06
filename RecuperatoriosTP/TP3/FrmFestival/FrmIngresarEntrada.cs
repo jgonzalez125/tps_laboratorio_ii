@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using Entidades;
 
-namespace FrmCentralita
+namespace FrmFestival
 {
     public partial class FrmIngresarEntrada : Form
     {
@@ -56,36 +56,6 @@ namespace FrmCentralita
             cmbFestival.Items.Add(this.festival.Nombre);
 
         }
-
-        //private void btnLlamar_Click(object sender, EventArgs e)
-        //{
-        //    Random random = new Random();
-        //    double randomDouble = random.NextDouble() * 5.6;
-        //    try 
-        //    { 
-        //        if (!this.txtNroDestino.Text.StartsWith('#'))
-        //        {
-        //            //this.centralita += new Campo(this.txtNroOrigen.Text, random.Next(1, 50), this.txtNroDestino.Text, (float)randomDouble);
-        //        }
-        //        else
-        //        {
-        //            Enum.TryParse<Platea.Franja>(cmbFestival.SelectedValue.ToString(), out Platea.Franja franjas);
-        //            //this.centralita += new Platea(this.txtNroOrigen.Text, random.Next(1, 50), this.txtNroDestino.Text, franjas);
-        //        }
-        //        MessageBox.Show("Llamado realizado");
-        //    }
-        //    catch (FestivalException)
-        //    {
-        //        MessageBox.Show("Esta entrada ya existe", "Error", MessageBoxButtons.OK);
-        //    }
-        //}
-
-        //private void btnLimpiar_Click(object sender, EventArgs e)
-        //{
-        //    this.txtNroDestino.Text = "";
-        //    this.txtNroFilaButaca.Text = "";
-        //    this.cmbFestival.Text = "";
-        //}
 
         private void btnSalir_Click(object sender, EventArgs e)
         {

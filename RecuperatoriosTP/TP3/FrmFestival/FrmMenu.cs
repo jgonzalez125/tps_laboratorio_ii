@@ -10,7 +10,7 @@ using System.Windows.Forms;
 using Entidades;
 using Entidades.Archivos;
 
-namespace FrmCentralita
+namespace FrmFestival
 {
     public partial class FrmMenu : Form
     {

@@ -1,5 +1,5 @@
 ﻿
-namespace FrmCentralita
+namespace FrmFestival
 {
     partial class FrmMenu
     {
